@@ -19,5 +19,6 @@
 --record logs`
 
 卸载
+
 1.`cat logs | xargs rm`
 
