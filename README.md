@@ -12,7 +12,7 @@
 
 或者copy到conda环境下面`cp libppr.so ${你的anaconda目录}/envs/${使用环境名}/lib`
 
-4. `pip setup.py install`
+4. `python setup.py install`
 
 ## Mac安装
 同Linux安装
